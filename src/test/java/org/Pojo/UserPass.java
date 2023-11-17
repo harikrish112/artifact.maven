@@ -10,6 +10,13 @@ public class UserPass extends BaseClass{
 	public UserPass() {
 		PageFactory.initElements(driver, this);
 	}
+	                                                                                                                     
+	
+	
+	
+	
+	
+	
 	
 	@FindBy(name="username")
 	private WebElement txtUsername;
